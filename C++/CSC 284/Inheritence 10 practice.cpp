@@ -1,0 +1,4 @@
+/*Make a Fruit class with a data member to calculate the number of fruits in a basket.
+Create two other classes named Apples and Mangoes to calculate the number of
+apples and mangoes in the basket. Print the number of fruits of each type and the total
+number of fruits in the basket.*/
