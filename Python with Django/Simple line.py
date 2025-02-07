@@ -1,0 +1,10 @@
+import matplotlib.pyplot as pt
+fig, ax=pt.subplots()
+line, =ax.plot([1,2,3,4], [1,4,9,16], label='line')
+line.set_color('red')
+line.set_linewidth(2)
+ax.set_xlabel('X-axis')
+ax.set_ylabel('Y-axis')
+ax.set_title('Simple Line Plot')
+pt.legend()
+pt.show()

@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+x=list(map(int,input().split()))
+y=list(map(int,input().split()))
+plt.figure(figsize=(10,5))
+plt.scatter(x,y, label='scatter', color='green', linewidth=2)
+plt.title('Scatter Diagram')
+plt.xlabel('X-axis')
+plt.ylabel('Y-axis')
+plt.legend()
+plt.grid()
+plt.show()
