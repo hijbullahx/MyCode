@@ -1,2 +1,6 @@
-console.log("Hi Hijbullah");
-console.log("Hi");
+name= "Hasib";
+console.log(name);
+a= 23;
+console.log(a);
+b=33.3;
+console.log(b); 
