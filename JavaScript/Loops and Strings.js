@@ -23,9 +23,9 @@
 // console.log(output);
 // \n is scape character for new line 
 //Prompt the user to enter their full name. Generate a username for them based on the input. Start username with @, folloed bt theri full name ending the fullname lenght.
-let name = prompt("Enter your full name:");
-console.log(name);
-trimed_Name=name.trim();
-lowerCase_Name=trimed_Name.toLowerCase();
-let username= "@"+lowerCase_Name+trimed_Name.length;
-console.log(username);
+// let name = prompt("Enter your full name:");
+// console.log(name);
+// trimed_Name=name.trim();
+// lowerCase_Name=trimed_Name.toLowerCase();
+// let username= "@"+lowerCase_Name+trimed_Name.length;
+// console.log(username);
