@@ -43,21 +43,21 @@
 //Take a number form user. Create an array of numbers form 1 to n.
 //Use the reduce method to calculate sum of all numbers in the array.
 //Use the reduce method to calculate the product of all numbers in the array. 
-let n=prompt("Enter a number: ");
-arr=[]; 
-for(let i=1; i<=n;i++)
-{
-  arr[i-1]=i;
-}
-let sum=arr.reduce((pre, curr) => 
-{
-  return pre+curr;
-})
-let product=arr.reduce((pre, curr)=>
-{
-  return pre*curr;
-})
+// let n=prompt("Enter a number: ");
+// arr=[]; 
+// for(let i=1; i<=n;i++)
+// {
+//   arr[i-1]=i;
+// }
+// let sum=arr.reduce((pre, curr) => 
+// {
+//   return pre+curr;
+// })
+// let product=arr.reduce((pre, curr)=>
+// {
+//   return pre*curr;
+// })
 
-console.log(arr);
-console.log("Sum: "+sum);
-console.log("Product: "+product);
+// console.log(arr);
+// console.log("Sum: "+sum);
+// console.log("Product: "+product);
