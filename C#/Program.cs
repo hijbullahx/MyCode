@@ -1,7 +1,7 @@
 ﻿using System;
 class Frst
 {
-    public static void Main(string[] args)
+    static void Main()
     {
         Console.WriteLine("Hijbullah");
     }
