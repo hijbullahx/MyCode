@@ -1,0 +1,8 @@
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.sourcelink.json
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.dll
+G:\My Drive\Programming\c#\obj\Debug\net9.0\refint\C#.dll
+G:\My Drive\Programming\c#\obj\Debug\net9.0\C#.pdb

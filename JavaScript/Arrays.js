@@ -9,8 +9,8 @@
 //b.Remove the Uber and Add Ola in it's place
 //c.Add Amazon in the end.
 
-let companies=["Bloomborg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
-companies.shift();
-companies.splice(1,1,"Ola");
-companies.push("Amazon");
-console.log(companies);
+// let companies=["Bloomborg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+// companies.shift();
+// companies.splice(1,1,"Ola");
+// companies.push("Amazon");
+// console.log(companies);

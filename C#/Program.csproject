@@ -1,0 +1,8 @@
+﻿using System;
+class Frst
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hijbullah");
+    }
+}
