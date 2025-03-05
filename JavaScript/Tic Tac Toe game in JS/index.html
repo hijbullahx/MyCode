@@ -4,12 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tic-Tac-Toe</title>
-  <link rel="stylsheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class = "msg-container hide">
+    <p id="msg">Winner</p>
+    <button id="new-btn">New Game</button>
+  </div>
   <main>
     <h1>Tic-Tac-Toe</h1>
-    <div clsas = "container">
+    <div class = "container">
       <div class = "game">
         <button class = "box"></button>
         <button class = "box"></button>
@@ -22,6 +26,8 @@
         <button class = "box"></button>
       </div>
     </div>
+    <button id="reset-btn">Reset</button>
   </main>
+  <script src="gameJs.js"></script>
 </body>
 </html>
