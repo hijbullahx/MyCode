@@ -47,15 +47,17 @@ body{
   border-radius: 1rem;
   background-color: #0B2027;
   color: #fff;
+  margin-top: 5rem;
 }
 
 #msg{
-  color: #0B2027;
+  color: #ee5b06;
   font-size: 5vmin;
 }
 
 .msg-container{
-  height: 30vmin;
+  height: 8vmin;
+  font-size: 5rem;
 }
 
 .hide{
