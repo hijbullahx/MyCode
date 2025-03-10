@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CSp\sf\sf\bin\Debug\net9.0\sf.exe
+C:\Users\User\Desktop\CSp\sf\sf\bin\Debug\net9.0\sf.deps.json
+C:\Users\User\Desktop\CSp\sf\sf\bin\Debug\net9.0\sf.runtimeconfig.json
+C:\Users\User\Desktop\CSp\sf\sf\bin\Debug\net9.0\sf.dll
+C:\Users\User\Desktop\CSp\sf\sf\bin\Debug\net9.0\sf.pdb
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.AssemblyInfo.cs
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.dll
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\refint\sf.dll
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.pdb
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\sf.genruntimeconfig.cache
+C:\Users\User\Desktop\CSp\sf\sf\obj\Debug\net9.0\ref\sf.dll

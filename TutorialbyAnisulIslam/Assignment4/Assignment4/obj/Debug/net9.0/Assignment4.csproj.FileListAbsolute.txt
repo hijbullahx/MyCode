@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\bin\Debug\net9.0\Assignment4.exe
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\bin\Debug\net9.0\Assignment4.deps.json
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\bin\Debug\net9.0\Assignment4.runtimeconfig.json
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\bin\Debug\net9.0\Assignment4.dll
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\bin\Debug\net9.0\Assignment4.pdb
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.AssemblyInfo.cs
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.dll
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\refint\Assignment4.dll
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.pdb
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\Assignment4.genruntimeconfig.cache
+C:\Users\User\Desktop\CSp\TutorialbyAnisulIslam\Assignment4\Assignment4\obj\Debug\net9.0\ref\Assignment4.dll

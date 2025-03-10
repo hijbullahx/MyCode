@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CSp\\TutorialbyAnisulIslam\\Assignmetn5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0211D389-77E3-4596-8177-69A2DD1944A5}|Assignmetn5\\Assignmetn5.csproj|c:\\users\\user\\desktop\\csp\\tutorialbyanisulislam\\assignmetn5\\assignmetn5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211D389-77E3-4596-8177-69A2DD1944A5}|Assignmetn5\\Assignmetn5.csproj|solutionrelative:assignmetn5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSp\\TutorialbyAnisulIslam\\Assignmetn5\\Assignmetn5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignmetn5\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSp\\TutorialbyAnisulIslam\\Assignmetn5\\Assignmetn5\\Program.cs",
+              "RelativeToolTip": "Assignmetn5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:52:00.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
