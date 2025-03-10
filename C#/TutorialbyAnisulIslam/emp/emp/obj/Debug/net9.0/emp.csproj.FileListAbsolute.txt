@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\bin\Debug\net9.0\emp.exe
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\bin\Debug\net9.0\emp.deps.json
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\bin\Debug\net9.0\emp.runtimeconfig.json
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\bin\Debug\net9.0\emp.dll
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\bin\Debug\net9.0\emp.pdb
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.AssemblyInfo.cs
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.dll
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\refint\emp.dll
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.pdb
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\emp.genruntimeconfig.cache
+C:\Users\User\Desktop\CSp\CS Practice\TutorialbyAnisulIslam\emp\emp\obj\Debug\net9.0\ref\emp.dll
