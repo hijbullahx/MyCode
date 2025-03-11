@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\bin\Debug\net9.0\OOP Class and object.exe
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\bin\Debug\net9.0\OOP Class and object.deps.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\bin\Debug\net9.0\OOP Class and object.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\bin\Debug\net9.0\OOP Class and object.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\bin\Debug\net9.0\OOP Class and object.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\refint\OOP Class and object.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\OOP Class and object.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Class and object\OOP Class and object\obj\Debug\net9.0\ref\OOP Class and object.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\bin\Debug\net9.0\Assignment8.exe
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\bin\Debug\net9.0\Assignment8.deps.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\bin\Debug\net9.0\Assignment8.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\bin\Debug\net9.0\Assignment8.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\bin\Debug\net9.0\Assignment8.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\refint\Assignment8.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\Assignment8.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Assignment8\Assignment8\obj\Debug\net9.0\ref\Assignment8.dll
