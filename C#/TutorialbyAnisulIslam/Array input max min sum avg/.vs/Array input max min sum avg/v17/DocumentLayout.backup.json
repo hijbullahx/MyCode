@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Array input max min sum avg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4957822C-C8BC-415C-9E55-A13025E31DEB}|Array input max min sum avg\\Array input max min sum avg.csproj|c:\\users\\user\\desktop\\codevault\\c#\\tutorialbyanisulislam\\array input max min sum avg\\array input max min sum avg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957822C-C8BC-415C-9E55-A13025E31DEB}|Array input max min sum avg\\Array input max min sum avg.csproj|solutionrelative:array input max min sum avg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Array input max min sum avg\\Array input max min sum avg\\Program.cs",
+              "RelativeDocumentMoniker": "Array input max min sum avg\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Array input max min sum avg\\Array input max min sum avg\\Program.cs",
+              "RelativeToolTip": "Array input max min sum avg\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:41:54.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

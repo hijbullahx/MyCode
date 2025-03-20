@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\interface vs class vs abstract\interface vs class vs abstract\obj\Debug\net9.0\interface vs class vs abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\interface vs class vs abstract\interface vs class vs abstract\obj\Debug\net9.0\interface vs class vs abstract.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\interface vs class vs abstract\interface vs class vs abstract\obj\Debug\net9.0\interface vs class vs abstract.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\interface vs class vs abstract\interface vs class vs abstract\obj\Debug\net9.0\interface vs class vs abstract.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\interface vs class vs abstract\interface vs class vs abstract\obj\Debug\net9.0\interface vs class vs abstract.sourcelink.json

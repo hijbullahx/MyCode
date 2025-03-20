@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\bin\Debug\net9.0\Array input max min sum avg.exe
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\bin\Debug\net9.0\Array input max min sum avg.deps.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\bin\Debug\net9.0\Array input max min sum avg.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\bin\Debug\net9.0\Array input max min sum avg.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\bin\Debug\net9.0\Array input max min sum avg.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\refint\Array input max min sum avg.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\Array input max min sum avg.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Array input max min sum avg\Array input max min sum avg\obj\Debug\net9.0\ref\Array input max min sum avg.dll

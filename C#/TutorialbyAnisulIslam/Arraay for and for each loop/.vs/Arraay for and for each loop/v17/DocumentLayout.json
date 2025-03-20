@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Arraay for and for each loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45BBDAF-B68B-4EE0-BDE0-FC403F52EF1F}|Arraay for and for each loop\\Arraay for and for each loop.csproj|c:\\users\\user\\desktop\\codevault\\c#\\tutorialbyanisulislam\\arraay for and for each loop\\arraay for and for each loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45BBDAF-B68B-4EE0-BDE0-FC403F52EF1F}|Arraay for and for each loop\\Arraay for and for each loop.csproj|solutionrelative:arraay for and for each loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Arraay for and for each loop\\Arraay for and for each loop\\Program.cs",
+              "RelativeDocumentMoniker": "Arraay for and for each loop\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Arraay for and for each loop\\Arraay for and for each loop\\Program.cs",
+              "RelativeToolTip": "Arraay for and for each loop\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvy4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:31:33.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

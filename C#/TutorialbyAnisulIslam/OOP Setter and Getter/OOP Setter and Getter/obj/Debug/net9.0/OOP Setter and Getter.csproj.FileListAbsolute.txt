@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\bin\Debug\net9.0\OOP Setter and Getter.exe
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\bin\Debug\net9.0\OOP Setter and Getter.deps.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\bin\Debug\net9.0\OOP Setter and Getter.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\bin\Debug\net9.0\OOP Setter and Getter.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\bin\Debug\net9.0\OOP Setter and Getter.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\refint\OOP Setter and Getter.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\OOP Setter and Getter.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\OOP Setter and Getter\OOP Setter and Getter\obj\Debug\net9.0\ref\OOP Setter and Getter.dll

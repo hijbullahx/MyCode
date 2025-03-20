@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\OOP properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60194AD3-1B6E-460C-870F-D1E0783BC46B}|OOP properties\\OOP properties.csproj|c:\\users\\user\\desktop\\codevault\\c#\\tutorialbyanisulislam\\oop properties\\oop properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60194AD3-1B6E-460C-870F-D1E0783BC46B}|OOP properties\\OOP properties.csproj|solutionrelative:oop properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\OOP properties\\OOP properties\\Program.cs",
+              "RelativeDocumentMoniker": "OOP properties\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\OOP properties\\OOP properties\\Program.cs",
+              "RelativeToolTip": "OOP properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:04:17.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Enumuration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\List\\List\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Array Property and methodes\\Array Property and methodes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D3DD5C-3007-486D-8479-C06868AD0A24}|Enumuration\\Enumuration.csproj|c:\\users\\user\\desktop\\codevault\\c#\\tutorialbyanisulislam\\enumuration\\enumuration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D3DD5C-3007-486D-8479-C06868AD0A24}|Enumuration\\Enumuration.csproj|solutionrelative:enumuration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\List\\List\\Program.cs",
+              "RelativeDocumentMoniker": "..\\List\\List\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\List\\List\\Program.cs",
+              "RelativeToolTip": "..\\List\\List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:40:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Array Property and methodes\\Array Property and methodes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Array Property and methodes\\Array Property and methodes\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Array Property and methodes\\Array Property and methodes\\Program.cs",
+              "RelativeToolTip": "..\\Array Property and methodes\\Array Property and methodes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:38:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Enumuration\\Enumuration\\Program.cs",
+              "RelativeDocumentMoniker": "Enumuration\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Enumuration\\Enumuration\\Program.cs",
+              "RelativeToolTip": "Enumuration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:31:10.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

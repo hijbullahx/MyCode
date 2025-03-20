@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\CSC 439\\Lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DEB77-CFD9-4D7D-A0A6-059AF0BD22D3}|Lab 3\\Lab 3.csproj|c:\\users\\user\\desktop\\codevault\\c#\\csc 439\\lab 3\\lab 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DEB77-CFD9-4D7D-A0A6-059AF0BD22D3}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\CSC 439\\Lab 3\\Lab 3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\CSC 439\\Lab 3\\Lab 3\\Program.cs",
+              "RelativeToolTip": "Lab 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:37:33.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

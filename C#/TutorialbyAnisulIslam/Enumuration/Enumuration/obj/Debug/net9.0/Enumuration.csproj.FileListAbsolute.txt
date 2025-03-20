@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\bin\Debug\net9.0\Enumuration.exe
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\bin\Debug\net9.0\Enumuration.deps.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\bin\Debug\net9.0\Enumuration.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\bin\Debug\net9.0\Enumuration.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\bin\Debug\net9.0\Enumuration.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\refint\Enumuration.dll
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.pdb
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\Enumuration.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\TutorialbyAnisulIslam\Enumuration\Enumuration\obj\Debug\net9.0\ref\Enumuration.dll

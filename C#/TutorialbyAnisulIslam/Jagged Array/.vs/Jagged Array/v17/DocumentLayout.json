@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Jagged Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7880B852-4FF9-42C3-B24F-993D8CC570C6}|Jagged Array\\Jagged Array.csproj|c:\\users\\user\\desktop\\codevault\\c#\\tutorialbyanisulislam\\jagged array\\jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880B852-4FF9-42C3-B24F-993D8CC570C6}|Jagged Array\\Jagged Array.csproj|solutionrelative:jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Jagged Array\\Jagged Array\\Program.cs",
+              "RelativeDocumentMoniker": "Jagged Array\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\TutorialbyAnisulIslam\\Jagged Array\\Jagged Array\\Program.cs",
+              "RelativeToolTip": "Jagged Array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:25:17.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

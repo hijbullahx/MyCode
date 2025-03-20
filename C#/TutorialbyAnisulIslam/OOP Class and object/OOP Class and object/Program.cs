@@ -5,6 +5,16 @@ namespace classAndObject
     {
         public string name;
         public int age;
+        
+        public void setValue(string n, int a)//method
+        {
+            name = n;
+            age = a;
+        }
+        public void DisplayInfo()//method
+        {
+            Console.WriteLine($"Name: {name}, Age: {age}\n");
+        }
     }
     class Test
     {
@@ -12,14 +22,10 @@ namespace classAndObject
         {
             Person p1 = new Person();
             Person p2 = new Person();
-            p1.name = "Hijbullah";
-            p1.age = 24;
-            p2.name = "Masud";
-            p2.age = 25;
-            Console.WriteLine("Person 1");
-            Console.WriteLine($"Name: {p1.name} Age: {p1.age}\n");
-            Console.WriteLine("Person 2");
-            Console.WriteLine($"Name: {p2.name} Age: {p2.age}");
+            p1.setValue("Hijbullah", 22);
+            p2.setValue("Masud", 23);
+            p1.DisplayInfo();
+            p2.DisplayInfo();
         }
     }
 }
