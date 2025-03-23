@@ -1,19 +1,19 @@
 import React from "react";
-import { Container } from "react-bootstrap";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-function App() {
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import HomeScreen from "./components/screens/HomeScreen";
+import SignupScreen from "./components/screens/SignupScreen";
+import LoginScreen from "./components/screens/LoginScreen";
+
+export default function App() {
   return (
-    <>
-      <div>
-        <Navbar />
-        <Container>
-          <h1>Welcome to IoTGenie</h1>
-        </Container>
-        <Footer />
-      </div>
-    </>
+    <Router>
+      <Header />
+      <Routes>
+        <Route exact path="/" element={<HomeScreen />} />
+        <Route exact path="/login" element={<LoginScreen />} />
+        <Route exact path="/signup" element={<SignupScreen />} />
+      </Routes>
+    </Router>
   );
 }
-
-export default App;

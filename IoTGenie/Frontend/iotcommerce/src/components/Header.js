@@ -1,18 +1,19 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { LinkContainer } from "react-bootstrap";
 import { Navbar, Nav } from "react-bootstrap";
-function Navbar() {
+
+export default function Header() {
+  const handleLogout = () => {
+    console.log("Logging out..."); // Add logout logic here
+  };
+
   return (
     <>
-      <Navbar
-        className="navbar navbar-expand-lg bg-primary"
-        data-bs-theme="dark"
-      >
+      <Navbar className="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
         <div className="container-fluid">
-          <LinkContainer to="/">
-            <Nav.Link className="navbar-brand">IoTGenie</Nav.Link>
-          </LinkContainer>
+          <Link to="/" className="navbar-brand">
+            IoTGenie
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -27,56 +28,44 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarColor01">
             <ul className="navbar-nav me-auto">
               <li className="nav-item">
-                <a className="nav-link active" href="#">
+                <Link to="/" className="nav-link active">
                   Home
-                  <span className="visually-hidden">(current)</span>
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <Link to="/cart" className="nav-link">
                   Cart
-                </a>
+                </Link>
               </li>
               <li className="nav-item dropdown">
-                <a
+                <Link
+                  to="#"
                   className="nav-link dropdown-toggle"
                   data-bs-toggle="dropdown"
-                  href="#"
                   role="button"
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
                   New User
-                </a>
+                </Link>
                 <div className="dropdown-menu">
-                  <a className="dropdown-item" href="#">
+                  <Link to="/login" className="dropdown-item">
                     Login
-                  </a>
-                  <a className="dropdown-item" href="#">
+                  </Link>
+                  <Link to="/signup" className="dropdown-item">
                     Signup
-                  </a>
+                  </Link>
                   <div className="dropdown-divider"></div>
-                  <a className="dropdown-item" href="#">
+                  <Link to="#" className="dropdown-item" onClick={handleLogout}>
                     Logout
-                  </a>
+                  </Link>
                 </div>
               </li>
             </ul>
-            <form className="d-flex">
-              <input
-                className="form-control me-sm-2"
-                type="search"
-                placeholder="Search"
-              />
-              <button className="btn btn-secondary my-2 my-sm-0" type="submit">
-                Search
-              </button>
-            </form>
+            <form className="d-flex"></form>
           </div>
         </div>
       </Navbar>
     </>
   );
 }
-
-export default Navbar;
