@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\bin\Debug\net9.0\Abstract class.exe
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\bin\Debug\net9.0\Abstract class.deps.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\bin\Debug\net9.0\Abstract class.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\bin\Debug\net9.0\Abstract class.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\bin\Debug\net9.0\Abstract class.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\refint\Abstract class.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\Abstract class.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Abstract class\Abstract class\obj\Debug\net9.0\ref\Abstract class.dll
