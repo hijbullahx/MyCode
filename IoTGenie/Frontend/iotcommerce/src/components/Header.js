@@ -29,7 +29,7 @@ export default function Header() {
             <ul className="navbar-nav me-auto">
               <li className="nav-item">
                 <Link to="/" className="nav-link active">
-                  Home
+                  Home <i className="fa-solid fa-house"></i>
                 </Link>
               </li>
               <li className="nav-item">
