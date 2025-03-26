@@ -1,0 +1,5 @@
+React js-frontend
+Django rest-backend
+watchbootsrap-tamplate
+db.sqlite3- database
+redux.js
