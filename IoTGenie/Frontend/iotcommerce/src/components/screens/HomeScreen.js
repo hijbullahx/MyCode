@@ -4,37 +4,34 @@ import axios from "axios";
 import { Row, Col } from "react-bootstrap";
 import ProductScreen from "./ProductScreen";
 import Product from "../Product";
-import { listProducts } from "../../actions/productActions";
+import { listProducts } from "../../actions/productsActions";
 import { useDispatch, useSelector } from "react-redux";
 const HomeScreen = () => {
-  const [products, setProducts] = useState([]);
-
+  const dispatch = useDispatch();
+  const productsList = useSelector((state) => state.productsList);
+  const { loading, error, products } = productsList;
   useEffect(() => {
-    console.log("Base URL:", process.env.REACT_APP_API_URL);
-    async function fetchProducts() {
-      try {
-        const { data } = await axios.get(
-          `${process.env.REACT_APP_API_URL}/api/products/`
-        );
-        setProducts(data);
-      } catch (error) {
-        console.error("Error fetching products:", error);
-      }
-    }
-    fetchProducts();
-  }, []);
+    dispatch(listProducts());
+  }, [dispatch]);
 
   return (
     <Container>
+      <br />
       <h1>Products</h1>
-      <Row>
+      {
+        loading ? (
+          <h2>Loading...</h2>
+        ) : error ? (
+          <h3>{error}</h3>
+        ) : (
+          <Row>
         {products.map((product) => (
           <Col key={product._id} sm={12} md={6} lg={4} xl={3}>
-
             <Product product={product} />
           </Col>
         ))}
       </Row>
+      )}
     </Container>
   );
 };
