@@ -1,11 +1,11 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
-import thunk from 'redux-thunk';
+import {thunk} from 'redux-thunk';
 import { composeWithDevTools } from 'redux-devtools-extension';
-import { productsListReducers } from './reducers/productReducers';
+import { productListReducer } from './reducers/productsReducers';
 
 const reducer = combineReducers({
     // reducers
-    productsList : productsListReducers,
+    productsList: productListReducer,
 });
 
 const initialState = {};
@@ -15,3 +15,6 @@ const store = createStore(
     initialState,
     composeWithDevTools(applyMiddleware(...middleware))
 );
+
+export default store;
+// Compare this snippet from iotcommerce/src/index.js:

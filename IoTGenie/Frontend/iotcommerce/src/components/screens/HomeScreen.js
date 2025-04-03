@@ -4,7 +4,8 @@ import axios from "axios";
 import { Row, Col } from "react-bootstrap";
 import ProductScreen from "./ProductScreen";
 import Product from "../Product";
-
+import { listProducts } from "../../actions/productActions";
+import { useDispatch, useSelector } from "react-redux";
 const HomeScreen = () => {
   const [products, setProducts] = useState([]);
 
