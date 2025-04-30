@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\bin\Debug\net9.0\Asignment- Machine.exe
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\bin\Debug\net9.0\Asignment- Machine.deps.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\bin\Debug\net9.0\Asignment- Machine.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\bin\Debug\net9.0\Asignment- Machine.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\bin\Debug\net9.0\Asignment- Machine.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\refint\Asignment- Machine.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\Asignment- Machine.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Asignment- Machine\Asignment- Machine\obj\Debug\net9.0\ref\Asignment- Machine.dll

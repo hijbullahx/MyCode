@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\bin\Debug\net9.0\Assignment- Group Employees by Department.exe
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\bin\Debug\net9.0\Assignment- Group Employees by Department.deps.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\bin\Debug\net9.0\Assignment- Group Employees by Department.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\bin\Debug\net9.0\Assignment- Group Employees by Department.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\bin\Debug\net9.0\Assignment- Group Employees by Department.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\refint\Assignment- Group Employees by Department.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\Assignment- Group Employees by Department.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment- Group Employees by Department\Assignment- Group Employees by Department\obj\Debug\net9.0\ref\Assignment- Group Employees by Department.dll

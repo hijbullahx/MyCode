@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\bin\Debug\net9.0\Assignment-Q4.exe
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\bin\Debug\net9.0\Assignment-Q4.deps.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\bin\Debug\net9.0\Assignment-Q4.runtimeconfig.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\bin\Debug\net9.0\Assignment-Q4.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\bin\Debug\net9.0\Assignment-Q4.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.sourcelink.json
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\refint\Assignment-Q4.dll
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.pdb
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\Assignment-Q4.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeVault\C#\CSC 439\Assignment-Q4\Assignment-Q4\obj\Debug\net9.0\ref\Assignment-Q4.dll

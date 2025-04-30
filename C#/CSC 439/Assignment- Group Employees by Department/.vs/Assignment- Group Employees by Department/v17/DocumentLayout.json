@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\CSC 439\\Assignment- Group Employees by Department\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B001C498-A459-4C4E-817A-1CE218D1F13E}|Assignment- Group Employees by Department\\Assignment- Group Employees by Department.csproj|c:\\users\\user\\desktop\\codevault\\c#\\csc 439\\assignment- group employees by department\\assignment- group employees by department\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B001C498-A459-4C4E-817A-1CE218D1F13E}|Assignment- Group Employees by Department\\Assignment- Group Employees by Department.csproj|solutionrelative:assignment- group employees by department\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\CSC 439\\Assignment- Group Employees by Department\\Assignment- Group Employees by Department\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment- Group Employees by Department\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeVault\\C#\\CSC 439\\Assignment- Group Employees by Department\\Assignment- Group Employees by Department\\Program.cs",
+              "RelativeToolTip": "Assignment- Group Employees by Department\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:54:13.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
