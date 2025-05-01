@@ -5,6 +5,11 @@ from datetime import timedelta
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+#for forcetext debug code
+import django
+from django.utils.encoding import force_str
+django.utils.encoding.force_text = force_str
+
 SECRET_KEY = 'django-insecure-dyoi6(i!*#t$2a)4wd3581w77ao5=n78%3yr*n@-!hr+w+u&jr'
 DEBUG = True
 ALLOWED_HOSTS = []
@@ -45,7 +50,7 @@ ROOT_URLCONF = 'iotcommerce.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
